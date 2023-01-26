@@ -1,2 +1,2 @@
 OLED.init(128, 64)
-OLED.writeStringNewLine("u noob get a life")
+OLED.writeStringNewLine("I am the goat")
